@@ -1,1 +1,1 @@
-# Spi-Core
+APB Interfaced SPI Master IP Core RTL Design
